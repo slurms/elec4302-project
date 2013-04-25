@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Thu Apr 25 13:47:19 2013 WST
 AppIdentifier                  /usr/local/cadence/IC/tools/dfII/bin/icfb.exe
 OSType                         lnx86
 ReasonForPlacingEditLock       XXsave write lock
-FilePathUsedToEditLock         /home/uniwa/students/students3/10317013/linux/4302project/adder2/symbol/symbol.cdb
-TimeEditLocked                 Thu Apr 25 16:07:45 2013 WST
+FilePathUsedToEditLock         /home/uniwa/students/students3/10317013/linux/4302project/adder8/schematic/sch.cdb
+TimeEditLocked                 Thu Apr 25 16:31:20 2013 WST
