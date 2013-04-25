@@ -1,0 +1,63 @@
+#
+UMC_18_CMOS P_18_MM symbol
+M25
+M24
+M23
+M22
+M21
+M20
+M19
+M18
+M17
+M16
+M15
+M14
+M13
+M12
+#
+UMC_18_CMOS N_18_MM symbol
+M27
+M26
+M11
+M9
+M8
+M7
+M6
+M5
+M4
+M1
+M0
+M10
+M3
+M2
+#ISCELL
+analogLib gnd symbol
+I15
+I14
+I6
+I5
+I4
+I3
+I2
+I1
+I0
+#ISCELL
+analogLib vdd symbol
+I17
+I16
+I13
+I12
+I11
+I9
+I8
+I7
+I10
+#ISCELL
+basic ipin symbol
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN4
+PIN3
