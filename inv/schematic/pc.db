@@ -1,0 +1,19 @@
+#
+UMC_18_CMOS P_18_MM symbol
+M1
+#
+UMC_18_CMOS N_18_MM symbol
+M0
+#ISCELL
+US_8ths Asize symbol
+sheet
+#ISCELL
+basic ipin symbol
+PIN0
+#ISCELL
+basic opin symbol
+PIN1
+#ISCELL
+basic iopin symbolr
+PIN3
+PIN2
