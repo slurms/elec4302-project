@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      20373911
+HostName                       ECM-L-D-271-003.uniwa.uwa.edu.au
+ProcessIdentifier              9841
+ProcessCreationTime_UTC        1368375434
+ProcessCreationTime_Readable   Mon May 13 00:17:14 2013 WST
+AppIdentifier                  /usr/local/cadence/IC5141-500-6-141/tools/dfII/bin/32bit/libManager.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       log file
+FilePathUsedToEditLock         /home/uniwa/students/students1/20373911/linux/Desktop/4302project/libManager.log
+TimeEditLocked                 Mon May 13 00:18:11 2013 WST
