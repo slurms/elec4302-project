@@ -1,23 +1,21 @@
 \o Program:		@(#)$CDS: libManager.exe version Exp 03/23/2009 19:17 (ocelot-linux) $
 \o Sub version:		sub-version none
-\o Arguments:		-unmapped -mpssession icfb9811 -mpshost ECM-L-D-271-003.uniwa.uwa.edu.au 
-\o Working Directory:	ECM-L-D-271-003.uniwa.uwa.edu.au:/home/uniwa/students/students1/20373911/linux/Desktop/4302project
+\o Arguments:		-unmapped -mpssession icfb4169 -mpshost ECM-L-D-151-024.uniwa.uwa.edu.au 
+\o Working Directory:	ECM-L-D-151-024.uniwa.uwa.edu.au:/home/uniwa/students/students1/20373911/linux/Desktop/4302project
 \o Extended color mode (TrueColor 32 0x23) in use.
 \o Library Manager customization server connected.
 MPS service: map window
+Main selection: 4302_test inv_test schematic
+\o Opening design file through session server.
+MPS request: edit design
+MPS request: update library list
+Main selection: 4302_test inverter layout
+\o Opening design file through session server.
+MPS request: edit design
 \o Log file is "/home/uniwa/students/students1/20373911/linux/Desktop/4302project/libManager.log".
 Opening libManager window.
-Main selection: 4302project adder2 layout1
-\o Opening design file through session server.
-MPS request: edit design
-MPS service: map window
 \o Opening design file through session server.
 MPS request: edit design
 \o Opening design file through session server.
 MPS request: edit design
-\o Opening design file through session server.
-MPS request: edit design
-\o Opening design file through session server.
-MPS request: edit design
-\o Opening design file through session server.
-MPS request: edit design
+\o libManager is exiting.
