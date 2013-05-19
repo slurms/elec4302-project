@@ -1,0 +1,49 @@
+text m1_text attach ME1
+text m2_text attach ME2
+text m3_text attach ME3
+text m4_text attach ME4
+text m5_text attach ME5
+text m6_text attach ME6
+text m1_textt attach ME1
+text m2_textt attach ME2
+text m3_textt attach ME3
+text m4_textt attach ME4
+text m5_textt attach ME5
+text m6_textt attach ME6
+text m1_pin attach ME1
+text m2_pin attach ME2
+text m3_pin attach ME3
+text m4_pin attach ME4
+text m5_pin attach ME5
+text m6_pin attach ME6
+connect ME1 PO1 by CONT
+connect ME1 ndiff by CONT
+connect ME1 pdiff by CONT
+connect PO1 ndiff by CONT
+connect PO1 pdiff by CONT
+connect ndiff pdiff by CONT
+connect ME1 NWEL by ntap_con
+connect ME1 ntap by ntap_con
+connect NWEL ntap by ntap_con
+connect ME2 ME1 by VI1
+connect ME3 ME2 by VI2
+connect ME4 ME3 by VI3
+connect ME5 ME4 by VI4
+connect ME6 ME5 by VI5
+stamp welnotr by ntap
+stamp nwel3 by ntap
+connect ME1 twelnot by ptct
+connect ME1 twel by ptct
+connect ME1 twel2 by ptct
+connect ME1 twel3 by ptct
+connect twelnot twel by ptct
+connect twelnot twel2 by ptct
+connect twelnot twel3 by ptct
+connect twel twel2 by ptct
+connect twel twel3 by ptct
+connect twel2 twel3 by ptct
+connect bmet1 ME1 by bmet1_edge2
+connect bmet2 ME2 by bmet2_edge2
+connect bmet3 ME3 by bmet3_edge2
+connect bmet4 ME4 by bmet4_edge2
+connect bmet5 ME5 by bmet5_edge2

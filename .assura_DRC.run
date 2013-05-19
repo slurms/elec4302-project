@@ -1,0 +1,3 @@
+#!/bin/sh -f
+/usr/local/cadence/ASSURA/tools/assura/bin/assura /home/uniwa/students/students1/20373911/linux/Desktop/4302project/inverter.rsf -cdslib /home/uniwa/students/students1/20373911/linux/cds.lib -restart -gui
+exit $?

@@ -1,0 +1,19 @@
+;----------------------------------------------------------------------------
+; @(#)$CDS: assura version av4.1:Production:dfII5.1.41:5.10.41.500.6.139 03/18/10 09:37 (logavt05) $
+; sub-version 4.1_USR1_HF7
+;----------------------------------------------------------------------------
+
+
+;----------------------------------------------------------------------------
+; Assura VLW saved state
+;----------------------------------------------------------------------------
+
+vuiLayerListOrder  =  "Alphabetical"
+vuiLayerList  = '(
+		("CONT" 213 "CONT = geomOr( CONT )" 1 3 t "y0 (drawing)" t)
+		("ME1" 328 "ME1 = geomOr( ME1 )" 1 4 t "y1 (drawing)" t)
+		("chip_ext" 59 "chip_ext = cellBoundary(root)" 0 0 t "y2 (drawing)" t)
+		("ndiff" 177 "ndiff = geomOr( T?175 T?176 )" 0 2 t "y3 (drawing)" t)
+		("ptct" 2607 "ptct = groupVias(  via(ptct) conn1(ME1) conn2(twelnot twel twel2 twel3) )" 1 1 t "y4 (drawing)" t)
+)
+vuiVLWLocation  = '((16 776) (771 1550))
